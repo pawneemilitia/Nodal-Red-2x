@@ -1,0 +1,499 @@
+{
+  "patches": {
+    "prog|98|hash|94a55b81dd0cacb13c4f98e2485e0fed": {
+      "tags": {
+      },
+      "name": "Waterhall"
+    },
+    "prog|95|hash|99d5cb2627689fa6b7371459f8bf8de8": {
+      "tags": {
+      },
+      "name": "Ravi"
+    },
+    "prog|96|hash|015c4e3f202fa2aec2a61d5b6574bb31": {
+      "tags": {
+      },
+      "name": "Guess!"
+    },
+    "prog|97|hash|af9d0941e24f584fb4a18bcb32345967": {
+      "tags": {
+      },
+      "name": "Tubular"
+    },
+    "prog|84|hash|030f2f546481898950b1f50feb8a6f22": {
+      "tags": {
+      },
+      "name": "Rotator"
+    },
+    "prog|87|hash|08abf7bd701dcef4ff4051fb4e3e4ca3": {
+      "tags": {
+      },
+      "name": "English horn"
+    },
+    "prog|83|hash|8f1b70c93639b86a1e574aa26a890251": {
+      "tags": {
+      },
+      "name": "Flageolettes"
+    },
+    "prog|82|hash|77a854fb24643b1690e24959e320c1ff": {
+      "tags": {
+      },
+      "name": "Bell bar"
+    },
+    "prog|88|hash|b69030e8c0c6b959205bc537bc342afd": {
+      "tags": {
+      },
+      "name": "Metal Flute"
+    },
+    "prog|89|hash|d1352506185c7cd48b374737e236c1f6": {
+      "tags": {
+      },
+      "name": "Voice"
+    },
+    "prog|91|hash|6b6d02241a03d8421e77f963b5d43568": {
+      "tags": {
+      },
+      "name": "Harpsichord"
+    },
+    "prog|92|hash|c7c26ce90b24bfcc1921f519a1fdf09c": {
+      "tags": {
+      },
+      "name": "Electric piano 2"
+    },
+    "prog|93|hash|52eadbb92011e04ab743f9d2f3ee0f2e": {
+      "tags": {
+      },
+      "name": "Musing"
+    },
+    "prog|94|hash|4b81fedde7f17170d0136048ee8629fb": {
+      "tags": {
+      },
+      "name": "Chang"
+    },
+    "prog|90|hash|c2dff171e9026799d53a32ba4357133c": {
+      "tags": {
+      },
+      "name": "FM horn"
+    },
+    "prog|85|hash|e36d629a5f4cbcc45a2996230d777d64": {
+      "tags": {
+      },
+      "name": "Tuba"
+    },
+    "prog|86|hash|3b4ee9ccc2393681180a62aa641053fd": {
+      "tags": {
+      },
+      "name": "Trumpet"
+    },
+    "prog|81|hash|0dc15562dd12b4d385aff712b468b9a0": {
+      "tags": {
+      },
+      "name": "Thumpinet"
+    },
+    "prog|10|hash|e352466ceccd87e0e70ca0573b32417c": {
+      "tags": {
+      },
+      "name": "Soft saw lead"
+    },
+    "prog|2|hash|9791955bdd00308e5bb01d6ef1f35d64": {
+      "tags": {
+      },
+      "name": "Resonance pad"
+    },
+    "prog|0|hash|329643efdf020f48c5f7eb38f6c3c5b0": {
+      "tags": {
+      },
+      "name": "Sawbrass"
+    },
+    "prog|5|hash|93c4f4cf9ac1dfc958e938f756b94830": {
+      "tags": {
+      },
+      "name": "Portamento quints"
+    },
+    "prog|1|hash|190b93fac1914ef9360c3b81d991a8a7": {
+      "tags": {
+      },
+      "name": "Velocity strings"
+    },
+    "prog|3|hash|6522e394fb9777371c9505f8e2128707": {
+      "tags": {
+      },
+      "name": "Hard string pad"
+    },
+    "prog|6|hash|9514a7cff204d845f89e4ad28c576a09": {
+      "tags": {
+      },
+      "name": "A fifth pad"
+    },
+    "prog|4|hash|555cb9ef43fd0cdf8be7e82ef0f8e468": {
+      "tags": {
+      },
+      "name": "Resonance fade pad"
+    },
+    "prog|7|hash|bcb749a938cb6aa7353267820a9fdb34": {
+      "tags": {
+      },
+      "name": "Pulse pad with FM"
+    },
+    "prog|8|hash|7b9794dfa8aed139833b944b37169e6c": {
+      "tags": {
+      },
+      "name": "Weather bass"
+    },
+    "prog|9|hash|3478ff3414a6364cdf4b4e34b616b3cb": {
+      "tags": {
+      },
+      "name": "Lead saw solo"
+    },
+    "prog|11|hash|8feba6684532ce2e5068ba86b7389fad": {
+      "tags": {
+      },
+      "name": "Zyntar"
+    },
+    "prog|12|hash|11df5fef14aa4626d191c4b8d65d0ee8": {
+      "tags": {
+      },
+      "name": "Arpeggiator down"
+    },
+    "prog|21|hash|c7a0c6bb85e4f1e7f64edcd7f0b98b65": {
+      "tags": {
+      },
+      "name": "FM Clavinet"
+    },
+    "prog|29|hash|49457aa9f03f713a999175a0618b1bf4": {
+      "tags": {
+      },
+      "name": "Random Arpeggio"
+    },
+    "prog|36|hash|378369c8c47445506b1543e571778402": {
+      "tags": {
+      },
+      "name": "Sample/hold"
+    },
+    "prog|35|hash|d8ddaaae5fdff4f2ff3dec3213aec98a": {
+      "tags": {
+      },
+      "name": "Space pad"
+    },
+    "prog|14|hash|9815b856157002ff9fb6b24d34bf9971": {
+      "tags": {
+      },
+      "name": "Attack bass"
+    },
+    "prog|31|hash|88f3f4aeb17c0253721603efbb398042": {
+      "tags": {
+      },
+      "name": "Didjeridu"
+    },
+    "prog|37|hash|82c13d89be9d98919100af8f83567079": {
+      "tags": {
+      },
+      "name": "Saw legato solo"
+    },
+    "prog|20|hash|cf36e7f7fbfa84247306db95443cbad0": {
+      "tags": {
+      },
+      "name": "Perc Lead"
+    },
+    "prog|38|hash|be297c10f600c0593bb6b5d5efb2768c": {
+      "tags": {
+      },
+      "name": "Echo sound"
+    },
+    "prog|15|hash|581ba3076baa6b899b0b537989bd47d5": {
+      "tags": {
+      },
+      "name": "Saw mono"
+    },
+    "prog|32|hash|fb604b13684396a5cb73cdff44438aa7": {
+      "tags": {
+      },
+      "name": "Sax"
+    },
+    "prog|19|hash|0ea4fc354f8302252592b526c4cb013e": {
+      "tags": {
+      },
+      "name": "Source bass"
+    },
+    "prog|26|hash|2e7af62b2175d8a8b99c984bdea972a9": {
+      "tags": {
+      },
+      "name": "Brite pad"
+    },
+    "prog|17|hash|7079b549419539052c3881f39a4d05bd": {
+      "tags": {
+      },
+      "name": "Guitar 1"
+    },
+    "prog|22|hash|85ec38df79e52931b76424ddbaa2c73d": {
+      "tags": {
+      },
+      "name": "Soft strings"
+    },
+    "prog|27|hash|1e795b12abd586aece89b4d0698d695b": {
+      "tags": {
+      },
+      "name": "Analog grand"
+    },
+    "prog|18|hash|d9b4062a22d935f8fbd66b827e5d9621": {
+      "tags": {
+      },
+      "name": "Violin"
+    },
+    "prog|16|hash|4d5c1716efc12edef5202ef78df90748": {
+      "tags": {
+      },
+      "name": "Osc 2 modulation"
+    },
+    "prog|24|hash|255729bf9c78d2469cae36415b8e8534": {
+      "tags": {
+      },
+      "name": "Resonance sweep"
+    },
+    "prog|23|hash|7a2e46b9c5eaf73ffe6a8b41532c5f97": {
+      "tags": {
+      },
+      "name": "S/H techno"
+    },
+    "prog|13|hash|c6954ed1cc4abcf5d943f17153b89e18": {
+      "tags": {
+      },
+      "name": "FM Metallic"
+    },
+    "prog|28|hash|7f1ae05e5b910d019488adee7a5c5f33": {
+      "tags": {
+      },
+      "name": "Electric piano 1"
+    },
+    "prog|33|hash|71fc9520725277583e63051cbfff4ef9": {
+      "tags": {
+      },
+      "name": "String pad"
+    },
+    "prog|30|hash|dadb414a0b5a369e3007a5e08055e805": {
+      "tags": {
+      },
+      "name": "Clarinet"
+    },
+    "prog|25|hash|ee7cf6cf9781dc0e9fb0fad7128f2aa6": {
+      "tags": {
+      },
+      "name": "Phaser"
+    },
+    "prog|34|hash|5fa692aebc3a359bb374238f1d2ad679": {
+      "tags": {
+      },
+      "name": "Solo pulse"
+    },
+    "prog|40|hash|52ed4e1f2c859f4da742cc828bda1646": {
+      "tags": {
+      },
+      "name": "Soft strings2"
+    },
+    "prog|39|hash|86316e28cab18611f08e47d505b56263": {
+      "tags": {
+      },
+      "name": "Pulse solo"
+    },
+    "prog|41|hash|80d0818b63ca1c02b241772b29d79e0d": {
+      "tags": {
+      },
+      "name": "Majesty"
+    },
+    "prog|42|hash|d4064c4aeca12b1d5ac13a4235b77fc8": {
+      "tags": {
+      },
+      "name": "Glass brass"
+    },
+    "prog|51|hash|62262c102367fbd4eaeaf364b783e9fa": {
+      "tags": {
+      },
+      "name": "Space clavinet"
+    },
+    "prog|56|hash|6d30134e93a3f73daeef44b70f8c9239": {
+      "tags": {
+      },
+      "name": "Eraser"
+    },
+    "prog|59|hash|8005768bb6d50b1dc01f707548353f09": {
+      "tags": {
+      },
+      "name": "Yeow!"
+    },
+    "prog|48|hash|2bdc66e435c7b7b5f5c5b0134857233e": {
+      "tags": {
+      },
+      "name": "Trumpets"
+    },
+    "prog|44|hash|65806f5f97c76c4bc62a6a128c0b0a16": {
+      "tags": {
+      },
+      "name": "Flute choir"
+    },
+    "prog|50|hash|73eeec47fe9048d521af2b5565e3ad2d": {
+      "tags": {
+      },
+      "name": "Dirty FM"
+    },
+    "prog|52|hash|ba7071421e62ab739e399c65a6131588": {
+      "tags": {
+      },
+      "name": "Resonant saw"
+    },
+    "prog|53|hash|ffe8c1074bf1a7d8cf00c7087ca5e52a": {
+      "tags": {
+      },
+      "name": "FM lead"
+    },
+    "prog|60|hash|af109d4f4b4bf60dc8a147e5ca4048eb": {
+      "tags": {
+      },
+      "name": "Syncher"
+    },
+    "prog|58|hash|d96cfc94eef4e416d1f494e578c050b7": {
+      "tags": {
+      },
+      "name": "Echo pad"
+    },
+    "prog|45|hash|85f10358e69980f8823705197fc194d8": {
+      "tags": {
+      },
+      "name": "Brass Comp"
+    },
+    "prog|43|hash|90ca451f9e151013af2f25ae81723ef0": {
+      "tags": {
+      },
+      "name": "Gimme 5"
+    },
+    "prog|61|hash|29f8a1e8d3f6394b3b1546e307d02b33": {
+      "tags": {
+      },
+      "name": "Low bass"
+    },
+    "prog|46|hash|8c1a53eb32900594ae792ef8f047c568": {
+      "tags": {
+      },
+      "name": "Sync sweep"
+    },
+    "prog|47|hash|639560419e83d3c14233c80ad003e081": {
+      "tags": {
+      },
+      "name": "Synth strings"
+    },
+    "prog|49|hash|13fb6242254dc52caa630a92b99707f9": {
+      "tags": {
+      },
+      "name": "Duke"
+    },
+    "prog|54|hash|6a474661cea4a7698361f776c10ce53b": {
+      "tags": {
+      },
+      "name": "Talking clavinet"
+    },
+    "prog|55|hash|349971d821798686bfbaaef4698b8ee9": {
+      "tags": {
+      },
+      "name": "Saw ring"
+    },
+    "prog|57|hash|f8d52cf40206289f77a34d68f5556bd5": {
+      "tags": {
+      },
+      "name": "Take the fifth"
+    },
+    "prog|62|hash|a9ed4ac5b7f50c2b973870c277c311ac": {
+      "tags": {
+      },
+      "name": "water bass"
+    },
+    "prog|68|hash|942dc2a3d0534665403d0862930ad27c": {
+      "tags": {
+      },
+      "name": "Black Hole"
+    },
+    "prog|64|hash|5205cebcbf503e9b094e5accb2722a86": {
+      "tags": {
+      },
+      "name": "FM morph bass"
+    },
+    "prog|66|hash|7a75763c47c0549331866117c122708b": {
+      "tags": {
+      },
+      "name": "Acid 2"
+    },
+    "prog|65|hash|9a531efa8ea1e70fa247777218461fa5": {
+      "tags": {
+      },
+      "name": "Acid 1"
+    },
+    "prog|63|hash|55bdcf9fd9e792dab30e76245c21274d": {
+      "tags": {
+      },
+      "name": "Pick bass"
+    },
+    "prog|67|hash|456146f21c97efc64fc498767434ecdc": {
+      "tags": {
+      },
+      "name": "legato bass"
+    },
+    "prog|69|hash|c2e75036e0f78873119fc63a8d5ed3bf": {
+      "tags": {
+      },
+      "name": "Sub"
+    },
+    "prog|70|hash|03b58053e92293da2d68b219c44019b1": {
+      "tags": {
+      },
+      "name": "DB"
+    },
+    "prog|71|hash|756dd833a8772513221ae1ce283e648f": {
+      "tags": {
+      },
+      "name": "Widebody"
+    },
+    "prog|72|hash|44d7fbe052e87336f21f18643eb47901": {
+      "tags": {
+      },
+      "name": "Fluff"
+    },
+    "prog|73|hash|f58c7b5829c8c323b3330e88f825e11b": {
+      "tags": {
+      },
+      "name": "Steeldrums"
+    },
+    "prog|74|hash|a17e93dc7f81ac1bc359721b932c6db7": {
+      "tags": {
+      },
+      "name": "Wurz piano"
+    },
+    "prog|75|hash|8949e19b63c7660a86be638e58d44620": {
+      "tags": {
+      },
+      "name": "My Clav"
+    },
+    "prog|76|hash|5142568e470135b77e494c55a3baa010": {
+      "tags": {
+      },
+      "name": "I bow"
+    },
+    "prog|77|hash|ad0a08a430bd54bd5305278ff920b2e2": {
+      "tags": {
+      },
+      "name": "Tack clav"
+    },
+    "prog|78|hash|2cc624f192257061d1637402b6785948": {
+      "tags": {
+      },
+      "name": "Span Eyes"
+    },
+    "prog|79|hash|45465f71f322631bd6280ccc5cc06efb": {
+      "tags": {
+      },
+      "name": "Floote"
+    },
+    "prog|80|hash|082cd334e31690686620d31bb38bc477": {
+      "tags": {
+      },
+      "name": "Hamplafon"
+    }
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "patches": {
+    "prog|48|hash|b8278cc4a13648ffc48ad81e501490c0": {
+      "tags": {
+      },
+      "name": "Resonantsweep 2"
+    },
+    "prog|1|hash|b01d30fa1f80d2b532f55f031e040d8e": {
+      "tags": {
+      },
+      "name": "Bass Arp Split"
+    },
+    "prog|4|hash|152fc322779cd616264f297dc3e7e195": {
+      "tags": {
+      },
+      "name": "Terminated - MIX 3"
+    },
+    "prog|11|hash|7bd31c6d737e7bb7ff6ae3def9aad6fc": {
+      "tags": {
+      },
+      "name": "Split Synth 2"
+    },
+    "prog|12|hash|94b8250fe026aa062a81aa79748d0c19": {
+      "tags": {
+      },
+      "name": "OB Talk"
+    },
+    "prog|2|hash|d6f16d4710c66e1b219b4d1b87da2b80": {
+      "tags": {
+      },
+      "name": "Tri Bounce Pad"
+    },
+    "prog|29|hash|704fa53bee6f39ed7fad3079c4a4edd5": {
+      "tags": {
+      },
+      "name": "Clavi Piano"
+    },
+    "prog|31|hash|b58487d9ddc6ffc8fe03945c73222c79": {
+      "tags": {
+      },
+      "name": "Percussiveness"
+    },
+    "prog|0|hash|5ba2d8f4b6c2652042fbd4614c2d5a27": {
+      "tags": {
+      },
+      "name": "Arpaddio"
+    },
+    "prog|50|hash|979f372df919dd6107de68ad833c52ab": {
+      "tags": {
+      },
+      "name": "Percussive COMP 1"
+    },
+    "prog|51|hash|520203464a7be7c10b2ee5c9ef33ee03": {
+      "tags": {
+      },
+      "name": "Sly Stone Bass"
+    },
+    "prog|52|hash|e3c3b355ed5533ed4d560b06065132c4": {
+      "tags": {
+      },
+      "name": "Percussive COMP 2"
+    },
+    "prog|33|hash|f4cc268ac73e249ffab87d66e6854101": {
+      "tags": {
+      },
+      "name": "Repeater"
+    },
+    "prog|36|hash|3b9a0763c8ad913a03b075de04056609": {
+      "tags": {
+      },
+      "name": "Space Station"
+    },
+    "prog|40|hash|97a689916baf070821c33aa738239311": {
+      "tags": {
+      },
+      "name": "Harp With Strings"
+    },
+    "prog|55|hash|2f202fc80b04256d57b367995c55ee20": {
+      "tags": {
+      },
+      "name": "Moog Bass 2"
+    },
+    "prog|27|hash|4cc442b4ebed46f6f35d2b339d6e28c7": {
+      "tags": {
+      },
+      "name": "Hi Res Pad"
+    },
+    "prog|26|hash|236cc0c39ee00a7b10609f28ed15ce3f": {
+      "tags": {
+      },
+      "name": "Alien Walking-MIX 4"
+    },
+    "prog|7|hash|3a2e6c3ad31ac4dedcfd07e8a671a648": {
+      "tags": {
+      },
+      "name": "Synth Grand Pad"
+    },
+    "prog|43|hash|4a5467f954f80886bd0aec03d5e3155a": {
+      "tags": {
+        "favourites": {
+          "added": [
+            "Favourites"
+          ]
+        }
+      },
+      "name": "Nice Arpeggi"
+    },
+    "prog|13|hash|8039f445bff8e22e324479fe39b566b8": {
+      "tags": {
+      },
+      "name": "Moog Lead"
+    },
+    "prog|38|hash|5ef752a4524299b22ada31ddfc27bb6a": {
+      "tags": {
+      },
+      "name": "Church Organ"
+    },
+    "prog|14|hash|bc0ed9280a2ac234c021187d3b653ca1": {
+      "tags": {
+      },
+      "name": "FM Metalimba"
+    },
+    "prog|46|hash|cf47d2549d9845522749a0a5a50f3d20": {
+      "tags": {
+      },
+      "name": "Pouw5"
+    },
+    "prog|49|hash|edf4522783652b421b590c74e6a56ef0": {
+      "tags": {
+      },
+      "name": "Talking Clav"
+    },
+    "prog|53|hash|1289e5d77f53cd12f1847e2b957d8ae1": {
+      "tags": {
+      },
+      "name": "Monster Lead"
+    },
+    "prog|56|hash|92b1dd11c947d850c706785ea9371b92": {
+      "tags": {
+      },
+      "name": "Mini Lead 3"
+    },
+    "prog|22|hash|e77f85a92ac344fd90eacba46b1386da": {
+      "tags": {
+      },
+      "name": "Synth Bass in your Face 10"
+    },
+    "prog|6|hash|96c572c5669a5835be1b0ef917001270": {
+      "tags": {
+      },
+      "name": "FutureSYNC - MIX 1"
+    },
+    "prog|10|hash|6845ab64de33b2f2abddb183dbaf1825": {
+      "tags": {
+      },
+      "name": "Plucked Pad"
+    },
+    "prog|35|hash|a8c3807d248d52ef2f372513aa876649": {
+      "tags": {
+      },
+      "name": "Wavepad"
+    },
+    "prog|34|hash|bf967127dd26d55222e33a6b44fea588": {
+      "tags": {
+      },
+      "name": "Seq's Appeal"
+    },
+    "prog|37|hash|c59df97a7dae9be6f599870aad31430a": {
+      "tags": {
+      },
+      "name": "3 Layer Lead"
+    },
+    "prog|45|hash|ec8ae3fcd067d2efa92a4a4306cbb085": {
+      "tags": {
+      },
+      "name": "Overblow"
+    },
+    "prog|28|hash|c9ca3cc957d9278db1cb1bf2dc724366": {
+      "tags": {
+      },
+      "name": "Goodbye Pad 3"
+    },
+    "prog|30|hash|7b9bfc58859e59b12c4152f3f1ceb16e": {
+      "tags": {
+      },
+      "name": "Cave Pad"
+    },
+    "prog|47|hash|5fc4f1541d932008faac5e1629a3217d": {
+      "tags": {
+      },
+      "name": "Synthfactory 1"
+    },
+    "prog|54|hash|11f378990366880d70ab51bef4d1c304": {
+      "tags": {
+      },
+      "name": "Moog Bass 1"
+    },
+    "prog|41|hash|d06ea3be4a5ef15efde6222bed108e54": {
+      "tags": {
+      },
+      "name": "Babar"
+    },
+    "prog|57|hash|0ee8ac9785538bb6988845832df4b848": {
+      "tags": {
+      },
+      "name": "Fun with the Sync!"
+    },
+    "prog|58|hash|2e9e80b2ab2f96e9d1cae3c47e2e1e8d": {
+      "tags": {
+      },
+      "name": "Percussive COMP 3"
+    },
+    "prog|9|hash|cd94c71cc1b1e4976f82b4ecb2f1d654": {
+      "tags": {
+      },
+      "name": "Stereo Synth Bass 4"
+    },
+    "prog|15|hash|31badeee74c5a7a94307c18cd58366ae": {
+      "tags": {
+      },
+      "name": "Delicate Drama"
+    },
+    "prog|39|hash|b41a383cb260a9526e26e88ef27a5ac4": {
+      "tags": {
+      },
+      "name": "Koto"
+    },
+    "prog|23|hash|90bf609db70a58b9f24aeabd2cf433bf": {
+      "tags": {
+      },
+      "name": "Stereo Synth Bass 5"
+    },
+    "prog|25|hash|26bbcc18abfb519d54e45ca1d1e52815": {
+      "tags": {
+      },
+      "name": "Funky Clav"
+    },
+    "prog|5|hash|a5c4f18bcd739d01df858b256af61e4a": {
+      "tags": {
+      },
+      "name": "Alien Walking-MIX 1"
+    },
+    "prog|59|hash|da14b5477b0dd3094d0db127297c5fb0": {
+      "tags": {
+      },
+      "name": "Shadow of a Cello"
+    },
+    "prog|3|hash|4f6c5e6276372b215715c23b484371d0": {
+      "tags": {
+      },
+      "name": "Banana Split"
+    },
+    "prog|18|hash|cc1dbced758a00ed39bc69b7164640ed": {
+      "tags": {
+      },
+      "name": "Delerium Pad"
+    },
+    "prog|16|hash|e09b15d45ca16c5180a87fd18f7086a3": {
+      "tags": {
+      },
+      "name": "Alternate Xylo"
+    },
+    "prog|19|hash|8950210101aefb8acbc45e90cdca5523": {
+      "tags": {
+      },
+      "name": "Split Beat"
+    },
+    "prog|20|hash|55b8bf75410e7169d08192c221e407da": {
+      "tags": {
+      },
+      "name": "Totally Rude Synth Lead 2"
+    },
+    "prog|21|hash|9fb8cf42d670954f8373a5eb2b0e3e77": {
+      "tags": {
+      },
+      "name": "Cyber Suite 1d"
+    },
+    "prog|24|hash|5043389e82d6a8248773b935ee5395b8": {
+      "tags": {
+      },
+      "name": "Split Flute Echo"
+    },
+    "prog|8|hash|91395512e4303a821d728bb38cbe78b0": {
+      "tags": {
+      },
+      "name": "Split Synth"
+    },
+    "prog|32|hash|8b11fc02a236f988385411a84774bca3": {
+      "tags": {
+      },
+      "name": "Notch Bass"
+    },
+    "prog|42|hash|4741f93f3861543f6f604ef355ac15c9": {
+      "tags": {
+      },
+      "name": "Industri"
+    },
+    "prog|17|hash|8fa92e6458ff051d33a6203430d22822": {
+      "tags": {
+      },
+      "name": "ARP Sequence"
+    },
+    "prog|44|hash|fb2f993462715ac9bebc5cdc8d2ad7d2": {
+      "tags": {
+      },
+      "name": "Grand Canyon"
+    },
+    "prog|60|hash|be7fa0b76081d3a94616d1a3c3bbf4a4": {
+      "tags": {
+      },
+      "name": "Enlightening Pad"
+    },
+    "prog|88|hash|ac83dc7b4c6249b0ac71343a3b4eaf16": {
+      "tags": {
+      },
+      "name": "Organesque"
+    },
+    "prog|62|hash|f4e38ad39f1fd82eea519b6e9a89f8a4": {
+      "tags": {
+      },
+      "name": "ARP w/ Swept Pad"
+    },
+    "prog|69|hash|5969ac3a92d40c718cf082fab9393441": {
+      "tags": {
+      },
+      "name": "Hi-Pass VEL Funky Clav"
+    },
+    "prog|78|hash|0f49a4f0bd0fb3a16c8312a82da5b045": {
+      "tags": {
+      },
+      "name": "Delicate Pick"
+    },
+    "prog|71|hash|62d6f1af11ac702541f86f207c2e2bf7": {
+      "tags": {
+      },
+      "name": "2 Step Bass"
+    },
+    "prog|79|hash|0c38cb281e4734994171a95d6f94f4ca": {
+      "tags": {
+      },
+      "name": "Resonant SAWS 2"
+    },
+    "prog|89|hash|f5038c378a0cd6f49bf77ab863569725": {
+      "tags": {
+      },
+      "name": "Grunge Bass"
+    },
+    "prog|65|hash|fcb1c7d4f636de8b12898097ce329b27": {
+      "tags": {
+      },
+      "name": "VEL TRI Synth"
+    },
+    "prog|73|hash|6d7297f0fd1b5f1a62a8d15e93ee7c44": {
+      "tags": {
+      },
+      "name": "Pick Bass"
+    },
+    "prog|75|hash|99b4e5038b270fd370fe659557fc57b1": {
+      "tags": {
+      },
+      "name": "Wurli"
+    },
+    "prog|64|hash|247724dafddfbda04832ecc0f90648d7": {
+      "tags": {
+      },
+      "name": "ARP Erasure"
+    },
+    "prog|68|hash|8cff03416e28bd7b875ab2fdfc0f51e4": {
+      "tags": {
+      },
+      "name": "Big Chime Pad"
+    },
+    "prog|76|hash|5acd56d9d059e4c6fc2c77a9c93008d7": {
+      "tags": {
+      },
+      "name": "Hybrid WurliRhodes"
+    },
+    "prog|70|hash|45af78ff50ea4c63a49e02a58d9e12bb": {
+      "tags": {
+      },
+      "name": "LFO Electronica"
+    },
+    "prog|85|hash|05780dc2d91017f63776ddd7c7955a33": {
+      "tags": {
+      },
+      "name": "Thick Bass"
+    },
+    "prog|90|hash|93a68bd88b2daa9ed16225525a245fc5": {
+      "tags": {
+      },
+      "name": "FM Bass"
+    },
+    "prog|86|hash|73228f2b29ff7316f030211adaa52f44": {
+      "tags": {
+      },
+      "name": "RAVE Synth"
+    },
+    "prog|91|hash|c8e21ed8b394a8450a06e4fedb377fca": {
+      "tags": {
+      },
+      "name": "Alternating COMP"
+    },
+    "prog|92|hash|82850c494467319fa1f1ff0eeb261648": {
+      "tags": {
+      },
+      "name": "Plastic Bass"
+    },
+    "prog|67|hash|dd11898a9b2025a4b61c5b1e37a8e95d": {
+      "tags": {
+      },
+      "name": "Synth Brass Section"
+    },
+    "prog|77|hash|38aff5bee3ca6ef5e1da9af8af544a4d": {
+      "tags": {
+      },
+      "name": "Resonant SAWS 1"
+    },
+    "prog|84|hash|1313d39850f6dc072730a1b31d3c329a": {
+      "tags": {
+      },
+      "name": "SYNC Clav"
+    },
+    "prog|63|hash|ee8a38cb851438d606294db2a667926e": {
+      "tags": {
+      },
+      "name": "Introspective Pad"
+    },
+    "prog|61|hash|69cb48a7ba81a30dc3e1c649531a9c3d": {
+      "tags": {
+      },
+      "name": "Dramatic Pad"
+    },
+    "prog|72|hash|a29a0a9edcf9376dac296432999a62f3": {
+      "tags": {
+      },
+      "name": "Delicate Roads :-)"
+    },
+    "prog|80|hash|0f6048fde15c4d626978ab541926d5e5": {
+      "tags": {
+      },
+      "name": "Hi-Pass Clav"
+    },
+    "prog|66|hash|b299200c4fe9cc11b4e917e94615f7f6": {
+      "tags": {
+      },
+      "name": "Cybernetic Clav"
+    },
+    "prog|82|hash|733711e9193f0143d41229ebd6181d27": {
+      "tags": {
+      },
+      "name": "Smooth Bass"
+    },
+    "prog|81|hash|65f726e425055892adb58717419cee53": {
+      "tags": {
+      },
+      "name": "Wide Talker"
+    },
+    "prog|83|hash|63e84ff2d9459b8222c4538746d79ff1": {
+      "tags": {
+      },
+      "name": "Rising Pad"
+    },
+    "prog|87|hash|914b92959a0ec0eede3501ac5a18f848": {
+      "tags": {
+      },
+      "name": "Paisley Park Synth"
+    },
+    "prog|74|hash|7edc6887e2b99dd62b643c7cdf285ce8": {
+      "tags": {
+      },
+      "name": "Delicate Roads 2 :-)"
+    },
+    "prog|95|hash|ab1dbd5bbfc57201b9cccc3310fc7dea": {
+      "tags": {
+      },
+      "name": "REZ Mini Lead"
+    },
+    "prog|99|hash|b61bd8d482511e0508fecf301572be53": {
+      "tags": {
+      },
+      "name": "Alternating Techno 2"
+    },
+    "prog|96|hash|b88ef12d5258bdc8ac0c27352fa922f4": {
+      "tags": {
+      },
+      "name": "Funk Clav"
+    },
+    "prog|97|hash|37a78f663223770e042c84c814ec427d": {
+      "tags": {
+      },
+      "name": "Chilled REZ"
+    },
+    "prog|93|hash|af532be01fa525aaf5fbb47271d1c4cc": {
+      "tags": {
+      },
+      "name": "Super REZ"
+    },
+    "prog|98|hash|ad92c8186084f5d8b51b12d0c4397431": {
+      "tags": {
+      },
+      "name": "D&B Bass"
+    },
+    "prog|94|hash|339e00837069115f443e05e4f8ede0ea": {
+      "tags": {
+      },
+      "name": "REZonant Trails"
+    }
+  }
+}

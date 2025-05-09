@@ -1,0 +1,499 @@
+{
+  "patches": {
+    "prog|89|hash|696f9233924703df4e599192357d08a4": {
+      "tags": {
+      },
+      "name": "Lasergun"
+    },
+    "prog|93|hash|9c918804a90343c39f73069cdf22d04c": {
+      "tags": {
+      },
+      "name": "Cyber"
+    },
+    "prog|94|hash|b02356d7a8509a98a4d29a499194ec28": {
+      "tags": {
+      },
+      "name": "Cybertalk"
+    },
+    "prog|91|hash|3c7c7fae107df3d39c4fd33ec7bc8e45": {
+      "tags": {
+      },
+      "name": "Bird"
+    },
+    "prog|92|hash|9b8377e00b699be9cd698659f124280b": {
+      "tags": {
+      },
+      "name": "Flipstring"
+    },
+    "prog|96|hash|9ab85fcb03fad4af9e2380af47d8686c": {
+      "tags": {
+      },
+      "name": "Plipp/plopp"
+    },
+    "prog|97|hash|1e8ca05d24955067e9214d7aaf0b8770": {
+      "tags": {
+      },
+      "name": "Darthvador"
+    },
+    "prog|88|hash|0f89f33ed913b116ad076bfc1e14bef0": {
+      "tags": {
+      },
+      "name": "Moonsong"
+    },
+    "prog|95|hash|51f3a5aa920f61f02b705f3f1212cfc3": {
+      "tags": {
+      },
+      "name": "Cyberspace"
+    },
+    "prog|98|hash|91ff943ecc45664f37785e93e1f6d1db": {
+      "tags": {
+      },
+      "name": "Rain"
+    },
+    "prog|90|hash|fe8f37e83e911447f23a806b692492de": {
+      "tags": {
+      },
+      "name": "Space"
+    },
+    "prog|87|hash|59a9fdde298fe74612cf8ce652296b81": {
+      "tags": {
+      },
+      "name": "Radio Days"
+    },
+    "prog|17|hash|4dee7027e057ac2aad9ad928932c3929": {
+      "tags": {
+      },
+      "name": "Knockbass"
+    },
+    "prog|18|hash|7d438ae239fd7bc213125cc6f7595489": {
+      "tags": {
+      },
+      "name": "Tightbass"
+    },
+    "prog|19|hash|ab6989cee77820afa3d74888ee678cc7": {
+      "tags": {
+      },
+      "name": "Electricpiano 1"
+    },
+    "prog|20|hash|058609a58eeddd629d376eef6bda3b5e": {
+      "tags": {
+      },
+      "name": "Electricpiano 2"
+    },
+    "prog|21|hash|000fc6f0ac26829d6f6c12fb573d4400": {
+      "tags": {
+      },
+      "name": "Electricpiano 3"
+    },
+    "prog|3|hash|4921c234ce56a069b89841d5c7c379c7": {
+      "tags": {
+      },
+      "name": "Ambient poly"
+    },
+    "prog|7|hash|738b8a2bca5dd8ba1b9503f7425b678e": {
+      "tags": {
+      },
+      "name": "Fat poly"
+    },
+    "prog|22|hash|0eb8fec3ce9228a32b31b4595609c78b": {
+      "tags": {
+      },
+      "name": "Knockwurlitzer"
+    },
+    "prog|23|hash|569a11a4d2ab3838049e520932ac2e57": {
+      "tags": {
+      },
+      "name": "Bellpiano"
+    },
+    "prog|24|hash|4d77e19d4ac7fb4bfa54bea5627b6361": {
+      "tags": {
+      },
+      "name": "EPsmack"
+    },
+    "prog|4|hash|31d9c2f11dd6956938bf62f8d2985c32": {
+      "tags": {
+      },
+      "name": "Human League 1"
+    },
+    "prog|25|hash|ca9a6742224df7c43dd5990624961cfa": {
+      "tags": {
+      },
+      "name": "Synclav"
+    },
+    "prog|27|hash|f6f9c86eef452e3269c47e4731e4a457": {
+      "tags": {
+      },
+      "name": "FMclav"
+    },
+    "prog|28|hash|7bcb191a94a6a2c84e6b56f7d162f0f5": {
+      "tags": {
+      },
+      "name": "Vibroclav"
+    },
+    "prog|29|hash|f94c4467b8189f4c8ce8d60459af9cf0": {
+      "tags": {
+      },
+      "name": "Polybrass"
+    },
+    "prog|10|hash|2ed6394b13d2d1a8316b7a7e798f6f47": {
+      "tags": {
+      },
+      "name": "Ratata bass"
+    },
+    "prog|31|hash|0c3e39579015b04e1912d5c71a8d006b": {
+      "tags": {
+      },
+      "name": "Wetbrass"
+    },
+    "prog|32|hash|0ae80659230ff311fd0f253fc2888a01": {
+      "tags": {
+      },
+      "name": "JX8P stab brass"
+    },
+    "prog|33|hash|5f312dd775285b7244d4350536caf2f6": {
+      "tags": {
+      },
+      "name": "Probrass"
+    },
+    "prog|34|hash|e2d892abbd7ea8819f2e879e7ebd68a5": {
+      "tags": {
+      },
+      "name": "D-tune Brass"
+    },
+    "prog|35|hash|8e0b28a9c1f102047e77fddd290f59c4": {
+      "tags": {
+      },
+      "name": "Wetbrass"
+    },
+    "prog|36|hash|d063c4892c1142d8ea4193c598639f56": {
+      "tags": {
+      },
+      "name": "Creambrass"
+    },
+    "prog|5|hash|738b8a2bca5dd8ba1b9503f7425b678e": {
+      "tags": {
+      },
+      "name": "Human League 2"
+    },
+    "prog|8|hash|1f99624ab60415c163956a7ebea5f4a4": {
+      "tags": {
+      },
+      "name": "Legatobass"
+    },
+    "prog|9|hash|2a40d11373aa8351c9014ff05b261c93": {
+      "tags": {
+      },
+      "name": "Infinite bass"
+    },
+    "prog|11|hash|c80bfdcf32cefa679a777435e17fc539": {
+      "tags": {
+      },
+      "name": "Rubber bass"
+    },
+    "prog|14|hash|379ba61e9fe6abb408c0e18532545f09": {
+      "tags": {
+      },
+      "name": "Sawbass oct"
+    },
+    "prog|26|hash|d033a99ddb84cad3f3c28463dda0f9a0": {
+      "tags": {
+      },
+      "name": "Thinclav"
+    },
+    "prog|13|hash|d18c8ff45ff166c112cc113278b4dc10": {
+      "tags": {
+      },
+      "name": "Sawbass"
+    },
+    "prog|15|hash|3e4d0ee87473d7963d9b39b80aafa5e6": {
+      "tags": {
+      },
+      "name": "Phatbass"
+    },
+    "prog|30|hash|1d6d01fdd39352fd399129176e8eafc9": {
+      "tags": {
+      },
+      "name": "Pulsebrass"
+    },
+    "prog|0|hash|3ab53990d24379823d87c3d5664e7122": {
+      "tags": {
+      },
+      "name": "Polysynth 1"
+    },
+    "prog|6|hash|3838a3a95ab436bb4d2eda9c7ee4e6fc": {
+      "tags": {
+      },
+      "name": "Wet poly"
+    },
+    "prog|12|hash|3260bfce51f23d947d9ec9c22e52f38a": {
+      "tags": {
+      },
+      "name": "Click bass"
+    },
+    "prog|16|hash|a4f4bc07d400cc4f9e20d91b49e0f77f": {
+      "tags": {
+      },
+      "name": "FMbass"
+    },
+    "prog|2|hash|10c600f0f2412e830a3d581860909025": {
+      "tags": {
+      },
+      "name": "Polysynth 3"
+    },
+    "prog|1|hash|fa9846bffb3b982c271d199513d604a3": {
+      "tags": {
+      },
+      "name": "Polysynth 2"
+    },
+    "prog|48|hash|9249313c113dc19cad1ea5135f584695": {
+      "tags": {
+      },
+      "name": "Pulse Pluck 2"
+    },
+    "prog|57|hash|2ff99371274b420f8f1ee2385d3ff0da": {
+      "tags": {
+      },
+      "name": "Gentle Pad"
+    },
+    "prog|67|hash|6554041b286934245303c1308192e604": {
+      "tags": {
+      },
+      "name": "Sunrise"
+    },
+    "prog|70|hash|32d92607c404f9a10b9bffd02e4c9391": {
+      "tags": {
+      },
+      "name": "Sytar"
+    },
+    "prog|71|hash|8c41eed8d10c2e4822aadf56316242d7": {
+      "tags": {
+      },
+      "name": "Percstrings"
+    },
+    "prog|55|hash|28dc3da52a1bf25e11a78c15a856d7c1": {
+      "tags": {
+      },
+      "name": "LFO Pad"
+    },
+    "prog|73|hash|a0746c402e908414583141c7061e485c": {
+      "tags": {
+      },
+      "name": "Tremolosynth"
+    },
+    "prog|51|hash|cb1da8842f1320a83045760104121940": {
+      "tags": {
+      },
+      "name": "Sine Pad"
+    },
+    "prog|54|hash|c910e4b118fe3e6607415fe16ffa4c1a": {
+      "tags": {
+      },
+      "name": "Brite Pad"
+    },
+    "prog|39|hash|2222148d1a3c7def01419872fb305797": {
+      "tags": {
+      },
+      "name": "Human Rez"
+    },
+    "prog|52|hash|c0abc1e96d8cd7642bbfee7cf9eb5a85": {
+      "tags": {
+      },
+      "name": "Massive Pad"
+    },
+    "prog|46|hash|f8395b3a165e6cd895eb0797d663f79b": {
+      "tags": {
+      },
+      "name": "Pulse Shimmer"
+    },
+    "prog|45|hash|424d46d2d820bfe0ecad05e9941765c0": {
+      "tags": {
+      },
+      "name": "Pulse Pluck"
+    },
+    "prog|56|hash|903d9ac4aee770953762890a7ed03ff6": {
+      "tags": {
+      },
+      "name": "Octpad"
+    },
+    "prog|75|hash|4f88dae3c2ca6967ddb8437bfc87c201": {
+      "tags": {
+      },
+      "name": "Talkbass"
+    },
+    "prog|43|hash|6041edab99e2092c836118740811535f": {
+      "tags": {
+      },
+      "name": "Yazpiano"
+    },
+    "prog|77|hash|dc6b1bc8fe0737928a037e18d8c6adc1": {
+      "tags": {
+      },
+      "name": "Bandpass303"
+    },
+    "prog|65|hash|efcf9ce117b38dcf8677ff99cba93b8c": {
+      "tags": {
+      },
+      "name": "Gentle Bell"
+    },
+    "prog|40|hash|5dbbf30a74529827d7c0d93f3e8ffa9b": {
+      "tags": {
+      },
+      "name": "Rez Pluck"
+    },
+    "prog|38|hash|0ddb7ed1ea95e7f2194d12dd27b983b0": {
+      "tags": {
+      },
+      "name": "Pulsebrass"
+    },
+    "prog|53|hash|363b967ed731999405a8b3f8b07e9de6": {
+      "tags": {
+      },
+      "name": "Organ Pad"
+    },
+    "prog|63|hash|22c693ab7b367e9fd72e05907a5b72ca": {
+      "tags": {
+      },
+      "name": "Crisp Bell"
+    },
+    "prog|58|hash|dfa42ba82cd11ed747ddfdd45e391e05": {
+      "tags": {
+      },
+      "name": "Sitarpad"
+    },
+    "prog|72|hash|7b837e6a1cf6ee91915e806e89a62277": {
+      "tags": {
+      },
+      "name": "Woodo"
+    },
+    "prog|74|hash|b7882b46e2664fec026e31e1cfd50d6b": {
+      "tags": {
+      },
+      "name": "Hitech"
+    },
+    "prog|76|hash|abd8f62aff4afad5df22c74cec5c16a2": {
+      "tags": {
+      },
+      "name": "Hipass303"
+    },
+    "prog|42|hash|822ef5c3767969fee48e08af15aedb1e": {
+      "tags": {
+      },
+      "name": "Yazoo"
+    },
+    "prog|44|hash|bc365cdd30546df6de20d09be2bd485f": {
+      "tags": {
+      },
+      "name": "Depe Che Pluck"
+    },
+    "prog|49|hash|1990419e157ef51c65e8934d349b9f47": {
+      "tags": {
+      },
+      "name": "Slow Pad"
+    },
+    "prog|41|hash|bd07937470d34e56dbb4d44cac12568d": {
+      "tags": {
+      },
+      "name": "Amb Sine Pluck"
+    },
+    "prog|37|hash|99ec87f488f79e1b3458e1bd0a73fcbb": {
+      "tags": {
+      },
+      "name": "Softbrass"
+    },
+    "prog|47|hash|1570abbecbbd2c8363c05f38dd487f6f": {
+      "tags": {
+      },
+      "name": "Seq Pluck"
+    },
+    "prog|50|hash|6c4d2d2f06c0daab5257e049b8e88735": {
+      "tags": {
+      },
+      "name": "Soft Pad"
+    },
+    "prog|59|hash|73418e789191a705ee97f519ca0600db": {
+      "tags": {
+      },
+      "name": "Digibell 1"
+    },
+    "prog|60|hash|4e1f6412496986fa943e470ee55261ea": {
+      "tags": {
+      },
+      "name": "Digibell 2"
+    },
+    "prog|61|hash|e1bb81796cf881395dceceddea258c7a": {
+      "tags": {
+      },
+      "name": "Crysister"
+    },
+    "prog|62|hash|c540dfc612b4c6d17056bc3c234c04b6": {
+      "tags": {
+      },
+      "name": "LFO Bell"
+    },
+    "prog|66|hash|bbc0c6d407d24c86f462a8e010ea5870": {
+      "tags": {
+      },
+      "name": "Wave Bell"
+    },
+    "prog|64|hash|76288b49426c79fb5f2ced804b7aedc9": {
+      "tags": {
+      },
+      "name": "Bassreverb"
+    },
+    "prog|68|hash|2576ebbf6c4cf2852ce4df5c7ca4105a": {
+      "tags": {
+      },
+      "name": "Organ/e.piano"
+    },
+    "prog|69|hash|5207233c0e4ddee36fef27c74f7201f9": {
+      "tags": {
+      },
+      "name": "Euro Lead"
+    },
+    "prog|80|hash|30b4a42b89c237578b1e28d067e554ea": {
+      "tags": {
+      },
+      "name": "Dist Git1 - wheel"
+    },
+    "prog|81|hash|edbe59bf383647b0ed44d6063d1f9081": {
+      "tags": {
+      },
+      "name": "Dist Git3 - wheel"
+    },
+    "prog|83|hash|049f7cd3307124eb7d400bfc84004efd": {
+      "tags": {
+      },
+      "name": "Monsterbass"
+    },
+    "prog|84|hash|7da6187c92751633a08942f9395c1ce9": {
+      "tags": {
+      },
+      "name": "Organ 1"
+    },
+    "prog|85|hash|a1e54525b0c15419c78ce75cda3da898": {
+      "tags": {
+      },
+      "name": "Organ 2"
+    },
+    "prog|86|hash|79a51fe67871a66a5b7b2eef15af8099": {
+      "tags": {
+      },
+      "name": "Organ 3"
+    },
+    "prog|79|hash|b0e3cae2f0eb1269d9eb49eb1c33f2c0": {
+      "tags": {
+      },
+      "name": "Tube"
+    },
+    "prog|78|hash|7b596ab01f6dd35d6628057ebc610330": {
+      "tags": {
+      },
+      "name": "Hitech 2"
+    },
+    "prog|82|hash|47181e9bd7695b8ae0f9a83bf9b38314": {
+      "tags": {
+      },
+      "name": "Dist Git3"
+    }
+  }
+}

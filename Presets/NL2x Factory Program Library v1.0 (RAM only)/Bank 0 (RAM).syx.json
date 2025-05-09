@@ -1,0 +1,499 @@
+{
+  "patches": {
+    "prog|97|hash|b1dc3a76d215dfb7187d25aa95e574e1": {
+      "tags": {
+      },
+      "name": "Cutting Edge Saws"
+    },
+    "prog|90|hash|a4c314fd4e2d88eb70698607ae9a163e": {
+      "tags": {
+      },
+      "name": "Mini Lead 1"
+    },
+    "prog|94|hash|7c704f375470a3a832f98b38b3886db1": {
+      "tags": {
+      },
+      "name": "Mini Lead 2"
+    },
+    "prog|91|hash|2c0104436ba2d120fe30b81d4d8fb6c1": {
+      "tags": {
+      },
+      "name": "Funk REZ Lead"
+    },
+    "prog|93|hash|32244b03a198d7f3c480f454cda4f7ee": {
+      "tags": {
+      },
+      "name": "REZ Mini Lead"
+    },
+    "prog|95|hash|83cc6a24b60f5a0b1c3ae93c34d49058": {
+      "tags": {
+      },
+      "name": "Mini Lead 3"
+    },
+    "prog|77|hash|6e125ae897cc866a13c89fdc48eab27a": {
+      "tags": {
+      },
+      "name": "SQU VEL Rez Bass"
+    },
+    "prog|79|hash|51f9f4be94acc642b983745b04c1affb": {
+      "tags": {
+      },
+      "name": "2 Step Bass"
+    },
+    "prog|82|hash|42593aff1b5b632afedebabcd6bc1801": {
+      "tags": {
+      },
+      "name": "Picked Bass"
+    },
+    "prog|98|hash|7343e65d5b96b70ae6225210eb101fde": {
+      "tags": {
+      },
+      "name": "Organesque"
+    },
+    "prog|85|hash|a7244ee6528f697bb91f76644982527e": {
+      "tags": {
+      },
+      "name": "Spike Bass"
+    },
+    "prog|84|hash|24a6016087659b211c08641a95c86215": {
+      "tags": {
+      },
+      "name": "FM Bass"
+    },
+    "prog|88|hash|95f391da722aaaf53667932db7b56b4b": {
+      "tags": {
+      },
+      "name": "FM FunKeys"
+    },
+    "prog|78|hash|fcd37c43cd0a2d567fdd080a21c1bc5e": {
+      "tags": {
+      },
+      "name": "SAW REZ Bass"
+    },
+    "prog|80|hash|b55cc70999cb63165fa408fa4347d42d": {
+      "tags": {
+      },
+      "name": "Punctuating Bass"
+    },
+    "prog|86|hash|6aee15998a5979e91d78cfc30b359c8d": {
+      "tags": {
+      },
+      "name": "Smooth Bass"
+    },
+    "prog|96|hash|88df7ad33715c9d7ad8e247789e998b0": {
+      "tags": {
+      },
+      "name": "Synce'd Up!"
+    },
+    "prog|87|hash|810eeb2a8123dc2e481c0efc3c56ff0a": {
+      "tags": {
+      },
+      "name": "Flimsy Bass"
+    },
+    "prog|92|hash|c67b15788290d4f446f40f7d39c5aaf8": {
+      "tags": {
+      },
+      "name": "TRI VEL Lead"
+    },
+    "prog|83|hash|020aa52080cc27e5a8a117a1cec0f73a": {
+      "tags": {
+      },
+      "name": "Funk FM Bass"
+    },
+    "prog|89|hash|8922bf84e6702f1b1de046aef41533ce": {
+      "tags": {
+      },
+      "name": "IV DisCHORD Pad"
+    },
+    "prog|81|hash|ce45276a4f708df4fc3f7f39d535a5c6": {
+      "tags": {
+      },
+      "name": "Low End"
+    },
+    "prog|5|hash|6404c60fe3720024eda8858d4255f29b": {
+      "tags": {
+      },
+      "name": "The MadMan Reso Synth"
+    },
+    "prog|15|hash|b6509ed852255ce82b1eb987fe6e7317": {
+      "tags": {
+      },
+      "name": "ResoRoto"
+    },
+    "prog|17|hash|ed20910b4e44b7556f0c2d59243a9eab": {
+      "tags": {
+      },
+      "name": "Arpeggiate Me!"
+    },
+    "prog|7|hash|a02f16c942292a597338832ccc59a3d6": {
+      "tags": {
+      },
+      "name": "Skywalker 1"
+    },
+    "prog|8|hash|1f76a7db757c88fc58afc0759977ac15": {
+      "tags": {
+      },
+      "name": "Deep Purple"
+    },
+    "prog|12|hash|15148d4191970d13540ba1118259984b": {
+      "tags": {
+      },
+      "name": "Tuned Resonance Pad 1"
+    },
+    "prog|13|hash|e4f72cf8caa7e7114c1fd015e366568f": {
+      "tags": {
+      },
+      "name": "Stereo Perk Pad"
+    },
+    "prog|18|hash|f4ee8d2502af42a4ec93c761bfdd3a99": {
+      "tags": {
+      },
+      "name": "VEL Soundtrack"
+    },
+    "prog|30|hash|e96b45f05635044ff6a9adc3ccc6bf96": {
+      "tags": {
+      },
+      "name": "The Calling"
+    },
+    "prog|31|hash|5d730d37af33778c7858dbc99d30c56b": {
+      "tags": {
+      },
+      "name": "Synth Rise"
+    },
+    "prog|0|hash|4d7dcb691cb56991d627fea01969baf6": {
+      "tags": {
+      },
+      "name": "Clearly for Techno"
+    },
+    "prog|16|hash|a2278d09b7706f603ab170d1eea21d3b": {
+      "tags": {
+      },
+      "name": "LFO Squares"
+    },
+    "prog|1|hash|fa87613e5f9f896eff7898edf572da40": {
+      "tags": {
+      },
+      "name": "And God made Resonance"
+    },
+    "prog|11|hash|43b9d816e3b711e1c41eb15b36552505": {
+      "tags": {
+      },
+      "name": "Billibass"
+    },
+    "prog|2|hash|2ba266604045ff75af8309bdcc0c3598": {
+      "tags": {
+      },
+      "name": "Delay Synth Brass"
+    },
+    "prog|20|hash|068976aa8b56586d26ca335cce731dbd": {
+      "tags": {
+      },
+      "name": "Plucky Pad"
+    },
+    "prog|23|hash|872c962d6b6f776d033e5bb94b09fd89": {
+      "tags": {
+      },
+      "name": "Introspection Pad"
+    },
+    "prog|14|hash|f8a10897f566980a1b730f8655194688": {
+      "tags": {
+      },
+      "name": "Clearly the Bell"
+    },
+    "prog|24|hash|f5583f3cd0ffe06ad354e9009661303b": {
+      "tags": {
+      },
+      "name": "Funky Talk"
+    },
+    "prog|27|hash|b4a6b433f8f9b2d3193beb259be9e86b": {
+      "tags": {
+      },
+      "name": "CyberFunk Clav"
+    },
+    "prog|28|hash|2021c5fd51b393d1c727f90a14a95b8b": {
+      "tags": {
+      },
+      "name": "Angel Pad"
+    },
+    "prog|22|hash|718740f5e1a1efd50dea0a194071c5e9": {
+      "tags": {
+      },
+      "name": "Slow Swello"
+    },
+    "prog|25|hash|b7cb69e84735b40b2db5401facad3d4a": {
+      "tags": {
+      },
+      "name": "Filtered Strings"
+    },
+    "prog|3|hash|bb5080e1fdd7ea3e41039b3200d50ad4": {
+      "tags": {
+      },
+      "name": "Dark Stereo Pad"
+    },
+    "prog|29|hash|e717742949c4aca411068313b04b0e82": {
+      "tags": {
+      },
+      "name": "Chime Pad"
+    },
+    "prog|26|hash|781a0450f8fc7917a697ad754d8fc819": {
+      "tags": {
+      },
+      "name": "Smooth Pad"
+    },
+    "prog|9|hash|57b889b315add087bb213ee2f818c019": {
+      "tags": {
+      },
+      "name": "Trekker"
+    },
+    "prog|10|hash|3eb77516fcabf09b9aee73c4e69e8f35": {
+      "tags": {
+      },
+      "name": "Flange gtr."
+    },
+    "prog|19|hash|c56755a6559ea2cee9eff61af169e9d2": {
+      "tags": {
+      },
+      "name": "Glass Voices"
+    },
+    "prog|21|hash|ac5b05c1f16615e17331286bb7075fbd": {
+      "tags": {
+      },
+      "name": "Velo REZO"
+    },
+    "prog|6|hash|68cf137e645e2b358c4cb604c682d0a6": {
+      "tags": {
+      },
+      "name": "Vibe Bell"
+    },
+    "prog|4|hash|7323505f36814aa3dc41396b8bf7ed8b": {
+      "tags": {
+      },
+      "name": "Dark DUB Bass"
+    },
+    "prog|57|hash|baa9b825f06a88d6a13ff7ab224056ed": {
+      "tags": {
+      },
+      "name": "Funky Pick"
+    },
+    "prog|58|hash|0391b4732f66ff0e8332288c287779e8": {
+      "tags": {
+      },
+      "name": "Legato REZ"
+    },
+    "prog|59|hash|657b92db0feb6ae4efe3af4d5ddb1cb3": {
+      "tags": {
+      },
+      "name": "Velocity SAW"
+    },
+    "prog|61|hash|96ee718908b814f0cf3419ec205db816": {
+      "tags": {
+      },
+      "name": "Stevie's Comp"
+    },
+    "prog|65|hash|581468a951fcc905577ff17af25997c0": {
+      "tags": {
+      },
+      "name": "SEQ Polysynth"
+    },
+    "prog|67|hash|9603049e2cd9b71fad63bde393007995": {
+      "tags": {
+      },
+      "name": "Teddy's Talkbox"
+    },
+    "prog|68|hash|c9685aee661b88ea9a66b0792007046a": {
+      "tags": {
+      },
+      "name": "VEL Rez Bass"
+    },
+    "prog|70|hash|4efce1aa738647a487372ae6c4bcd35f": {
+      "tags": {
+      },
+      "name": "VEL Fuzz Bass"
+    },
+    "prog|72|hash|c6f5c26f2f00372cb7d92001871d8e81": {
+      "tags": {
+      },
+      "name": "DRE Bass (use wheel)"
+    },
+    "prog|73|hash|e8fc3a9d919c860d7195fa4ea8bbcc48": {
+      "tags": {
+      },
+      "name": "Dodger Bass"
+    },
+    "prog|38|hash|4c3fb2166df7323ff6316b57b84a9389": {
+      "tags": {
+      },
+      "name": "Dramatic Sweep"
+    },
+    "prog|49|hash|7b76463d9aa0f7a4e23aac7dee3c67ff": {
+      "tags": {
+      },
+      "name": "Synth Brass Section"
+    },
+    "prog|53|hash|7145f895d3812196741eac1dd2a913e1": {
+      "tags": {
+      },
+      "name": "Old School Synth"
+    },
+    "prog|64|hash|10ae357e90d4b61ddc65886796136249": {
+      "tags": {
+      },
+      "name": "PWM Clav"
+    },
+    "prog|43|hash|04871890e17cedd9123e8050f95b996b": {
+      "tags": {
+      },
+      "name": "Velo Comp Synth"
+    },
+    "prog|37|hash|214439294f1648c8b9e30d5e509029e2": {
+      "tags": {
+      },
+      "name": "Subtle Pad"
+    },
+    "prog|50|hash|87b597419d7602d3ad97df35e2bf8cfa": {
+      "tags": {
+      },
+      "name": "Dirty SAW Techno"
+    },
+    "prog|74|hash|2c644cbb19d48039f2e55e9ec3c6cd25": {
+      "tags": {
+      },
+      "name": "Funk REZ Bass"
+    },
+    "prog|51|hash|5e75bd08e1bca8e14bb75f4164d895f0": {
+      "tags": {
+      },
+      "name": "Hi-Pass VEL Synth"
+    },
+    "prog|52|hash|675bea98b91520b6866a2d84ab3b961a": {
+      "tags": {
+      },
+      "name": "Synth Comp Pluck"
+    },
+    "prog|55|hash|d3bbf9bfc1c8b36b407b74be0e940d1a": {
+      "tags": {
+      },
+      "name": "Techno SAW Comp"
+    },
+    "prog|62|hash|0c836a507005f99e647ce65f14e3fb2f": {
+      "tags": {
+      },
+      "name": "Phase Synth"
+    },
+    "prog|69|hash|0f1c071819774546442f667bb76159c6": {
+      "tags": {
+      },
+      "name": "D&B Bass"
+    },
+    "prog|63|hash|4db3bcd4dafe708052cdcc34557304f0": {
+      "tags": {
+      },
+      "name": "Old School Synth 2"
+    },
+    "prog|56|hash|9ce0f1d4de791dd2ce2d87847ff529b2": {
+      "tags": {
+      },
+      "name": "Heavy REZ"
+    },
+    "prog|42|hash|8e50c8cfb47b020e88634b4a82b55ab5": {
+      "tags": {
+      },
+      "name": "Scritti Plucky"
+    },
+    "prog|66|hash|4d8ec82dad0fb7c6d303f296d9238b66": {
+      "tags": {
+      },
+      "name": "Poppy SQU Synth"
+    },
+    "prog|75|hash|781a0450f8fc7917a697ad754d8fc819": {
+      "tags": {
+      },
+      "name": "TRI REZ Bass"
+    },
+    "prog|40|hash|cefc857bca99b29e322a7cf5155ee95f": {
+      "tags": {
+      },
+      "name": "Techno Synth 1"
+    },
+    "prog|34|hash|cbe12afcab85c399f6032b5b8978db5f": {
+      "tags": {
+      },
+      "name": "Rude SQU"
+    },
+    "prog|33|hash|313e99fe6867d388b6702cd25c5062a7": {
+      "tags": {
+      },
+      "name": "Metallic Synth"
+    },
+    "prog|60|hash|6547fc3037a77a94cf77bc5335030cb2": {
+      "tags": {
+      },
+      "name": "RAVE synth"
+    },
+    "prog|71|hash|3497d75da74bc05e962c3339f189a844": {
+      "tags": {
+      },
+      "name": "One Or One Bass"
+    },
+    "prog|76|hash|4768f13a799a0110537fb995cf873a95": {
+      "tags": {
+      },
+      "name": "U Know Bass"
+    },
+    "prog|41|hash|dee8c748d0339c6d219330b76cb69c6a": {
+      "tags": {
+      },
+      "name": "Techno Synth 2"
+    },
+    "prog|36|hash|043f9997249900625f14e490fc9d0a2c": {
+      "tags": {
+      },
+      "name": "SQU Lite"
+    },
+    "prog|44|hash|cee361bf61aa5d006f3dedb84682f137": {
+      "tags": {
+      },
+      "name": "SAW Keys"
+    },
+    "prog|47|hash|5eaf81977ed5df6e4d162a1fcb0fa849": {
+      "tags": {
+      },
+      "name": "Rodney J SAWS"
+    },
+    "prog|48|hash|31f8013a1ece2128c67a678c8cb4aa51": {
+      "tags": {
+      },
+      "name": "SEQ Pulse Synth 2"
+    },
+    "prog|35|hash|83955a8679aecc31bda5e04ad5324eff": {
+      "tags": {
+      },
+      "name": "Drama Pad"
+    },
+    "prog|32|hash|ba3e4b2542e16c7f95f6a200af9cceb0": {
+      "tags": {
+      },
+      "name": "Stardust FM"
+    },
+    "prog|39|hash|95a0ad389e0daf54657fc6a5e98fc069": {
+      "tags": {
+      },
+      "name": "Vinyl Opera"
+    },
+    "prog|54|hash|fb6e3df83c4df07cd5c40bf5dde7ff11": {
+      "tags": {
+      },
+      "name": "Rising REZ Pad"
+    },
+    "prog|46|hash|f98caa7c85e17052c319f8e4ec713da1": {
+      "tags": {
+      },
+      "name": "Talking REZ"
+    },
+    "prog|45|hash|edc200cd2c1804109e8cade722d820a0": {
+      "tags": {
+      },
+      "name": "SEQ Pulse Synth 1"
+    }
+  }
+}

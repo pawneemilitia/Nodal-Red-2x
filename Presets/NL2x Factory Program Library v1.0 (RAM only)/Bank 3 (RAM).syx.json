@@ -1,0 +1,499 @@
+{
+  "patches": {
+    "prog|9|hash|612fa42a48e0ff5d7e6ff99c94abfb1b": {
+      "tags": {
+      },
+      "name": "Electrocution"
+    },
+    "prog|0|hash|12a3c8d7917a9f0af256a6373c9f4924": {
+      "tags": {
+      },
+      "name": "Big Bell"
+    },
+    "prog|5|hash|14f60ed9e0d86285b13ffaa3db02bdfb": {
+      "tags": {
+      },
+      "name": "Six Wives"
+    },
+    "prog|6|hash|2b37eeb6b1ee36097c475e1485545a51": {
+      "tags": {
+      },
+      "name": "Kick/snare"
+    },
+    "prog|3|hash|ba0755703deba6d007b1babc0029015d": {
+      "tags": {
+      },
+      "name": "Organ"
+    },
+    "prog|1|hash|7829f94810ef43cec1ef90d742d65c49": {
+      "tags": {
+      },
+      "name": "Arpeggibass"
+    },
+    "prog|2|hash|9ee7ae7fffa260d13e6a4964aaa01dd8": {
+      "tags": {
+      },
+      "name": "Breathy Attack"
+    },
+    "prog|4|hash|4f73e495a39cbb459abc800004f99ef1": {
+      "tags": {
+      },
+      "name": "Shimmering"
+    },
+    "prog|45|hash|e316634eff4fe8e1a7f86fcff7aeca63": {
+      "tags": {
+      },
+      "name": "Lava Q Lead"
+    },
+    "prog|26|hash|df404501bad53b8d7ed70006552be8cc": {
+      "tags": {
+      },
+      "name": "Voxpiano"
+    },
+    "prog|34|hash|a539c75261194a7262e870732a4fa974": {
+      "tags": {
+      },
+      "name": "Juicy Arpeggi"
+    },
+    "prog|62|hash|46a8de0485e03f138b5f6935b669c3c9": {
+      "tags": {
+      },
+      "name": "Bag Pipes"
+    },
+    "prog|69|hash|09630320e01c9803e125faebed7dd8a5": {
+      "tags": {
+      },
+      "name": "Rubber Arp Iii"
+    },
+    "prog|61|hash|a5fcf92fb8ff95c037944f93b0dadd2d": {
+      "tags": {
+      },
+      "name": "Accordion"
+    },
+    "prog|32|hash|e56c1e2546d0037ce05d211faa760b71": {
+      "tags": {
+      },
+      "name": "Arpeggiklang"
+    },
+    "prog|39|hash|488e56f1898a6af840df63095f70df43": {
+      "tags": {
+      },
+      "name": "Water Drops"
+    },
+    "prog|70|hash|8720c4aa848a3ca0f29612fe699580f2": {
+      "tags": {
+      },
+      "name": "Eurhythmic Reverb"
+    },
+    "prog|74|hash|c5011e50e0822b52b8882fde3e0b40a2": {
+      "tags": {
+      },
+      "name": "Illusionary Arp"
+    },
+    "prog|11|hash|4e7a41f2f1fb6f50fda2c51560844551": {
+      "tags": {
+      },
+      "name": "Square Throb"
+    },
+    "prog|33|hash|585796b558eee39f3af826e6b1ecd0a7": {
+      "tags": {
+      },
+      "name": "Wind"
+    },
+    "prog|20|hash|fb9b8404bb5079f26380b4fb6471c4a4": {
+      "tags": {
+      },
+      "name": "Velsaw"
+    },
+    "prog|25|hash|c2a5ac59cc0c4b5fd85b40a9c14e8c1e": {
+      "tags": {
+      },
+      "name": "Flutedistmorpher"
+    },
+    "prog|50|hash|f4619eadcf2a50f47bc730b016e6c956": {
+      "tags": {
+      },
+      "name": "Electrodrone-a"
+    },
+    "prog|55|hash|3aa82b7d23c7cc0ba68851708a85418a": {
+      "tags": {
+      },
+      "name": "Carousel"
+    },
+    "prog|15|hash|35e55be7036e35c836cd6809bcc48697": {
+      "tags": {
+      },
+      "name": "Bowed Metalglass"
+    },
+    "prog|24|hash|ca9db8aa035914475a2df31536ed6204": {
+      "tags": {
+      },
+      "name": "Electropanic"
+    },
+    "prog|28|hash|ab8230496876c28fe3ad0811cb9e1402": {
+      "tags": {
+      },
+      "name": "Organ 2"
+    },
+    "prog|52|hash|96364a4783df6acce057dd1b4be258e8": {
+      "tags": {
+      },
+      "name": "Toto Soft Brass"
+    },
+    "prog|13|hash|b92cc50fcc1ff4caf1c3076d065ed417": {
+      "tags": {
+      },
+      "name": "Synth Swirl"
+    },
+    "prog|19|hash|6cde3535662c5cfccc2dfd270d80d4ff": {
+      "tags": {
+      },
+      "name": "Velpulse"
+    },
+    "prog|53|hash|e254d86110ead0e32dd18888008f9086": {
+      "tags": {
+      },
+      "name": "Resonant Bass"
+    },
+    "prog|16|hash|1b94dc668fee0f5472cc6f6323e0f04b": {
+      "tags": {
+      },
+      "name": "Pulsearpeggi"
+    },
+    "prog|56|hash|88b5f8fb540c7cfe8edd66ffb9fa8989": {
+      "tags": {
+      },
+      "name": "Brassalog"
+    },
+    "prog|57|hash|fade15662a07a78fad7353d7371e8556": {
+      "tags": {
+      },
+      "name": "Ob Genevice"
+    },
+    "prog|27|hash|2e79defa100179b18e8d246d60096fd2": {
+      "tags": {
+      },
+      "name": "Warm Pad"
+    },
+    "prog|36|hash|9ec84a465e40914dd44fe9c68137f092": {
+      "tags": {
+      },
+      "name": "Weel Tempo Arpeggi"
+    },
+    "prog|47|hash|70537fa7cc60c2cedba30c13c38fbf95": {
+      "tags": {
+      },
+      "name": "Dist Lead"
+    },
+    "prog|14|hash|28ca081bc94f7c5214d2009991deed26": {
+      "tags": {
+      },
+      "name": "Metalglass"
+    },
+    "prog|58|hash|04faa8bd00032d52be326aeff88a2d87": {
+      "tags": {
+      },
+      "name": "Chick Full Of Fifths"
+    },
+    "prog|40|hash|6d7ad3d203ffb3682e6d8a19f9e1d1e9": {
+      "tags": {
+      },
+      "name": "Morphsong"
+    },
+    "prog|29|hash|17163b97bea7c5839b51a91bbdafc17b": {
+      "tags": {
+      },
+      "name": "Flutearpeggi"
+    },
+    "prog|18|hash|a876fa524611199f517862db9d941a8b": {
+      "tags": {
+      },
+      "name": "Spacebubbles"
+    },
+    "prog|21|hash|00d36733abc50d1964c825e1950138b6": {
+      "tags": {
+      },
+      "name": "Anahorn"
+    },
+    "prog|60|hash|14b07627e7b91b4d7d45d302651629e4": {
+      "tags": {
+      },
+      "name": "Stinger Lead"
+    },
+    "prog|65|hash|949927529c97517361f93c7a31625ceb": {
+      "tags": {
+      },
+      "name": "Whistle Buzz"
+    },
+    "prog|66|hash|b24120d86f5fab9bfde68094a337061c": {
+      "tags": {
+      },
+      "name": "Quick Lead"
+    },
+    "prog|68|hash|ba039e2b5b5a24eae18e203cb0fb4661": {
+      "tags": {
+      },
+      "name": "Rubber Arp"
+    },
+    "prog|12|hash|987e21f7ad335cabab2443bd628406de": {
+      "tags": {
+      },
+      "name": "Glass Sitar"
+    },
+    "prog|64|hash|ca5b24b20c1dafb5d64ce0335ab0b011": {
+      "tags": {
+      },
+      "name": "Lucy"
+    },
+    "prog|30|hash|62b8af6f9901faa147695c86ff035285": {
+      "tags": {
+      },
+      "name": "Fat Arpeggi"
+    },
+    "prog|31|hash|9f45fd55536d123dd8c95f67e7aa3690": {
+      "tags": {
+      },
+      "name": "Triangle Morpher"
+    },
+    "prog|38|hash|6d2cefe92839473b2f2ff35b4c9dc140": {
+      "tags": {
+      },
+      "name": "Classic Analog Horn"
+    },
+    "prog|43|hash|de45419f89536eaccf63010b18fdc93e": {
+      "tags": {
+      },
+      "name": "Phoghorn"
+    },
+    "prog|44|hash|881ffa32a5a1771c4a141b02c6efc00d": {
+      "tags": {
+      },
+      "name": "Voicey Melody"
+    },
+    "prog|54|hash|51e81d38783bf926e0dbf794b279d7fc": {
+      "tags": {
+      },
+      "name": "Fatass Brass"
+    },
+    "prog|42|hash|e8b524fef1f4c7428c941d5da97a924c": {
+      "tags": {
+      },
+      "name": "Classic Buzz"
+    },
+    "prog|63|hash|5c6c8d13524fd360986bb67dc379651f": {
+      "tags": {
+      },
+      "name": "Bent Bells"
+    },
+    "prog|72|hash|eefb75bb9482cc95639912be9e4cb2ea": {
+      "tags": {
+      },
+      "name": "Vapour Spaced I"
+    },
+    "prog|67|hash|07687915aef4ffb29834c46ea028e7ca": {
+      "tags": {
+      },
+      "name": "Swept Fifth Arp"
+    },
+    "prog|35|hash|4af351dc1fdb0389653deea573c7f42b": {
+      "tags": {
+      },
+      "name": "Rolling Phase Lead"
+    },
+    "prog|22|hash|6f18d687eff1dcecf26377fca8f4b777": {
+      "tags": {
+      },
+      "name": "Velosity Arp Rate"
+    },
+    "prog|37|hash|178170588ad46861116b40509b0ed9a9": {
+      "tags": {
+      },
+      "name": "Velzapbass"
+    },
+    "prog|48|hash|66b1c0bab482acc39ce4773e67ad1091": {
+      "tags": {
+      },
+      "name": "Mini Hard Lead"
+    },
+    "prog|46|hash|e6b1d131607e17de91cc437e05c127be": {
+      "tags": {
+      },
+      "name": "Mr. Floyd Rez Sweep"
+    },
+    "prog|17|hash|31947e4f6160f198489a10bfd7798dd7": {
+      "tags": {
+      },
+      "name": "Weelsong"
+    },
+    "prog|49|hash|be0a91fed78ca3e898fd20b47db77cc5": {
+      "tags": {
+      },
+      "name": "Lucky Lead"
+    },
+    "prog|59|hash|4d031440bd16223dd634758a2b9d4de6": {
+      "tags": {
+      },
+      "name": "Funkin Epiano"
+    },
+    "prog|73|hash|646695df1226339099a38dc6078d3b87": {
+      "tags": {
+      },
+      "name": "Vapour Spaced Ii"
+    },
+    "prog|71|hash|27be8ad694424217ea18c31904648dfb": {
+      "tags": {
+      },
+      "name": "Lunar Arp"
+    },
+    "prog|23|hash|70b4b5767d2410996171ad33da6284e9": {
+      "tags": {
+      },
+      "name": "Big Bass"
+    },
+    "prog|41|hash|3632fcd78e1258d4e83342c248aae412": {
+      "tags": {
+      },
+      "name": "Electro Lace"
+    },
+    "prog|51|hash|38668f34831b2c9eeb892cd5a63bb7ec": {
+      "tags": {
+      },
+      "name": "Bandpass Polysynth"
+    },
+    "prog|78|hash|4d46ed5e96eba8c84ff432a481286752": {
+      "tags": {
+      },
+      "name": "Taurus Pedals"
+    },
+    "prog|87|hash|9cb94ea4951099727988e94b31485bf1": {
+      "tags": {
+      },
+      "name": "Lo Detune I"
+    },
+    "prog|77|hash|17ee13366fe9b057823db3763d4ef34d": {
+      "tags": {
+      },
+      "name": "Veloreso Bass"
+    },
+    "prog|90|hash|aa96c18131d58f63d6195f348009daed": {
+      "tags": {
+      },
+      "name": "Industrial Drone"
+    },
+    "prog|80|hash|959db7db461ec16ddae840e6416bdb59": {
+      "tags": {
+      },
+      "name": "Vibrobass"
+    },
+    "prog|84|hash|a8fda16c4444744d5e85dc201302361c": {
+      "tags": {
+      },
+      "name": "Echolocation"
+    },
+    "prog|76|hash|036e6a93f4f11ae828db6665baa0e556": {
+      "tags": {
+      },
+      "name": "Hojo Arp"
+    },
+    "prog|92|hash|9dedc6892db8a4c1650ebd6d1e234c77": {
+      "tags": {
+      },
+      "name": "Weed Eater"
+    },
+    "prog|98|hash|77ba2e93b29501e80be17f3e94f5fe6b": {
+      "tags": {
+      },
+      "name": "Birdsong"
+    },
+    "prog|91|hash|486ba5f5a747e6115bdb79a6b63a1349": {
+      "tags": {
+      },
+      "name": "Rewind"
+    },
+    "prog|86|hash|37dd4c9aecef2d39bda62b9720fe91cc": {
+      "tags": {
+      },
+      "name": "Nine Inch Noise"
+    },
+    "prog|97|hash|fa0a8f0a1950246af84bf9f7225d954b": {
+      "tags": {
+      },
+      "name": "Be Careful With That N"
+    },
+    "prog|94|hash|cf745fa88a76e7cde142251e9956ff67": {
+      "tags": {
+      },
+      "name": "Deep Woods Off"
+    },
+    "prog|96|hash|d1c5f9dd7f331f0fe90ef5d84a2392af": {
+      "tags": {
+      },
+      "name": "Hover"
+    },
+    "prog|85|hash|bd1733e91af016c025ee5e10fe3e9801": {
+      "tags": {
+      },
+      "name": "Antarctica"
+    },
+    "prog|79|hash|00489c85e4695ed321d8f575d34beb82": {
+      "tags": {
+      },
+      "name": "Dumb Bass/kick"
+    },
+    "prog|88|hash|360cf9a4fe22b07ad6a5ac2be7b45f5e": {
+      "tags": {
+      },
+      "name": "Lo Detune Ii"
+    },
+    "prog|83|hash|8b9e6678ec6d87a5a777e9b4f41468b5": {
+      "tags": {
+      },
+      "name": "Poltergeist"
+    },
+    "prog|95|hash|c89936bb70198113eb297bcf7adc050e": {
+      "tags": {
+      },
+      "name": "Cell Phone"
+    },
+    "prog|89|hash|5469274d0a91482518af64ce6d02b213": {
+      "tags": {
+      },
+      "name": "Geiger Counter"
+    },
+    "prog|93|hash|fb3aaec507f0645f80736dd0fb05f575": {
+      "tags": {
+      },
+      "name": "Radio Breakup"
+    },
+    "prog|75|hash|84512aed114dbf4d9a998616f6c2c3ba": {
+      "tags": {
+      },
+      "name": "Vangellic Arp"
+    },
+    "prog|82|hash|fbff4e519345f4b844a346e445de6ea1": {
+      "tags": {
+      },
+      "name": "Go Ahead London"
+    },
+    "prog|81|hash|a2b11688caad522e0d6393a84c842c44": {
+      "tags": {
+      },
+      "name": "Ow Wheel Bass"
+    },
+    "prog|10|hash|68d5dc4a298a6449d7f4d5821ce0d53e": {
+      "tags": {
+      },
+      "name": "Noise Percussion"
+    },
+    "prog|7|hash|160f25ddc4e3da382793bf378cb437af": {
+      "tags": {
+      },
+      "name": "Heartbeat"
+    },
+    "prog|8|hash|858f2882e708527864a19b53a642a4da": {
+      "tags": {
+      },
+      "name": "Bouncing Glassball"
+    }
+  }
+}
