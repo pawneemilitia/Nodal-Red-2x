@@ -11,5 +11,3 @@ Nodal Red 2x is an emulation of the Clavia Nord Lead 2x for MacOS by The Usual S
 - A few Presets and Factory Sound Banks from Nord.
 
 Home Website: https://dsp56300.wordpress.com
-
-All the credits goes to whole The Usual Suspects team and everyone involved :)
