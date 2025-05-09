@@ -1,5 +1,6 @@
 # Nodal Red 2x 1.4.4 MacOS
 
+
 Nodal Red 2x is an emulation of the Clavia Nord Lead 2x for MacOS by The Usual Suspects.
 
 ![nodal red 2 - copie](https://github.com/user-attachments/assets/260295f9-21b2-4e84-aa16-d4c76d1cf4b0)
